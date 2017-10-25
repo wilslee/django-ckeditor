@@ -71,7 +71,7 @@
 		}
 	} );
 } )();
-CKEDITOR.config.line_height = '1em;1.5em;2em;2.5em;3em;3.5em;4em;4.5em;5em;5.5em;6em;6.5em;7em;7.5em;8em;8.5em;9em;9.5em;10em;10.5em;11em;11.5em;12em;12.5em;13em;13.5em;' +
+CKEDITOR.config.line_height = '1em;1.2em;1.5em;2em;2.5em;3em;3.5em;4em;4.5em;5em;5.5em;6em;6.5em;7em;7.5em;8em;8.5em;9em;9.5em;10em;10.5em;11em;11.5em;12em;12.5em;13em;13.5em;' +
 	'14em;14.5em;15em;15.5em;16em;16.5em;17em;17.5em;18em;18.5em;19em;19.5em;20em;';
 // CKEDITOR.config.line_height = '12px;13px;14px;15px;16px;18px;20px;22px;24px;26px;28px;30px;1;1.5;2;2.5;3;4;5;6;7;8;9;10;11;12;13;' +
 // 	'14;15;16;17;18;19;20;';
